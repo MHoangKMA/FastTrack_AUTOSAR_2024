@@ -1,0 +1,70 @@
+{
+  "tests": 2,
+  "failures": 2,
+  "disabled": 0,
+  "errors": 0,
+  "timestamp": "2024-09-12T23:21:17Z",
+  "time": "0.035s",
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "TestSuiteAssignment_02",
+      "tests": 2,
+      "failures": 2,
+      "disabled": 0,
+      "errors": 0,
+      "timestamp": "2024-09-12T23:21:17Z",
+      "time": "0.028s",
+      "testsuite": [
+        {
+          "name": "TestCase_01_ReverseStringTest",
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2024-09-12T23:21:17Z",
+          "time": "0.003s",
+          "classname": "TestSuiteAssignment_02",
+          "failures": [
+            {
+              "failure": "TestSuite\/src\/TestSuiteSrc.cc:41\nValue of: checkStringReverse(strOriginal, strReverse)\n  Actual: false\nExpected: true",
+              "type": ""
+            }
+          ]
+        },
+        {
+          "name": "TestCase_02_PrimeNumberTest",
+          "status": "RUN",
+          "result": "COMPLETED",
+          "timestamp": "2024-09-12T23:21:17Z",
+          "time": "0.017s",
+          "classname": "TestSuiteAssignment_02",
+          "failures": [
+            {
+              "failure": "TestSuite\/src\/TestSuiteSrc.cc:79\nValue of: isPrime\n  Actual: false\nExpected: true\nNumber 60 is not prime",
+              "type": ""
+            },
+            {
+              "failure": "TestSuite\/src\/TestSuiteSrc.cc:79\nValue of: isPrime\n  Actual: false\nExpected: true\nNumber 35 is not prime",
+              "type": ""
+            },
+            {
+              "failure": "TestSuite\/src\/TestSuiteSrc.cc:79\nValue of: isPrime\n  Actual: false\nExpected: true\nNumber 48 is not prime",
+              "type": ""
+            },
+            {
+              "failure": "TestSuite\/src\/TestSuiteSrc.cc:79\nValue of: isPrime\n  Actual: false\nExpected: true\nNumber 64 is not prime",
+              "type": ""
+            },
+            {
+              "failure": "TestSuite\/src\/TestSuiteSrc.cc:79\nValue of: isPrime\n  Actual: false\nExpected: true\nNumber 33 is not prime",
+              "type": ""
+            },
+            {
+              "failure": "TestSuite\/src\/TestSuiteSrc.cc:79\nValue of: isPrime\n  Actual: false\nExpected: true\nNumber 92 is not prime",
+              "type": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

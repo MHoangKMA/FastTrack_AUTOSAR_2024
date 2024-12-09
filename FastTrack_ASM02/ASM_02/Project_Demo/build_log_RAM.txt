@@ -1,0 +1,64 @@
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/LED.o[0m
+[1;32mCOMPILING Completed! : ./src/App/LED/LED.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/Can.o[0m
+[1;32mCOMPILING Completed! : ./src/Drivers/CAN/Can.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/Clock.o[0m
+[1;32mCOMPILING Completed! : ./src/Drivers/Clock/Clock.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/GPIO.o[0m
+[1;32mCOMPILING Completed! : ./src/Drivers/GPIO/GPIO.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/interrupt_manager.o[0m
+[1;32mCOMPILING Completed! : ./src/Drivers/Interrupt/interrupt_manager.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/LPIT.o[0m
+[1;32mCOMPILING Completed! : ./src/Drivers/PIT/LPIT.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/PMC.o[0m
+[1;32mCOMPILING Completed! : ./src/Drivers/PMC/PMC.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/RTC.o[0m
+[1;32mCOMPILING Completed! : ./src/Drivers/RTC/RTC.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/WDog.o[0m
+[1;32mCOMPILING Completed! : ./src/Drivers/WDog/WDog.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/main.o[0m
+[1;32mCOMPILING Completed! : ./src/main.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/Init.o[0m
+[1;32mCOMPILING Completed! : ./src/System/Init/Init.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/Sch.o[0m
+[1;32mCOMPILING Completed! : ./src/System/Sch/Sch.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/Task.o[0m
+[1;32mCOMPILING Completed! : ./src/System/Task/Task.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/startup.o[0m
+[1;32mCOMPILING Completed! : ./Project_Settings/Startup_Code/startup.c[0m
+======================================================================
+[1;95mCOMPILING C FILE:[0m
+[1;33mCompiling ./output/object/system_S32K144.o[0m
+[1;32mCOMPILING Completed! : ./Project_Settings/Startup_Code/system_S32K144.c[0m
+======================================================================
+[1;95mBuilding target: S32K144_Demo.elf[0m
+[1;95mInvoking: Standard S32DS C Linker[0m
+[1;33mLinking to ./output/S32K144_Demo.elf[0m
